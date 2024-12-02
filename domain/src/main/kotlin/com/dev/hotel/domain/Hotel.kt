@@ -1,4 +1,4 @@
-package com.dev.domain
+package com.dev.hotel.domain
 
 class Hotel private constructor(
     val hotelId: Long,

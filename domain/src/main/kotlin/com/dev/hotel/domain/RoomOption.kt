@@ -1,4 +1,4 @@
-package com.dev.domain
+package com.dev.hotel.domain
 
 class RoomOption private constructor(
     val roomOptionId: String,

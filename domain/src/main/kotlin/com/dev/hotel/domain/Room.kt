@@ -1,4 +1,4 @@
-package com.dev.domain
+package com.dev.hotel.domain
 
 class Room private constructor(
     val roomId: String,
