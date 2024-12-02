@@ -28,6 +28,9 @@ dependencies {
 
     // mariDb
     runtimeOnly("org.mariadb.jdbc:mariadb-java-client")
+
+    // domain
+    implementation(project(":domain"))
 }
 
 tasks.test {
